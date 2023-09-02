@@ -1,5 +1,4 @@
-
-## Hi there, I'm Dkshesh Talaviya 👋
+# <h1 align="center">Hi, I'm <a href="https://github.com/daksheshtalaviya">Dkshesh Talaviya<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/75/ad/f6/75adf60a163180dfeb0c467511e25191.gif" width="480px"/>
 
