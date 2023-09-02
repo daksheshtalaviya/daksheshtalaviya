@@ -3,7 +3,6 @@
   <img src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" alt="Your GIF Image Description">
 </p>
 
-
 # <h1 align="center">Hi, I'm <a href="https://github.com/daksheshtalaviya">Dkshesh Talaviya<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/75/ad/f6/75adf60a163180dfeb0c467511e25191.gif" width="480px"/>
@@ -36,6 +35,8 @@ I'm passionate about crafting elegant and user-friendly iOS applications. With a
 | <img src="https://www.iconfinder.com/icons/1054970/download/png/32"/> UIKit | <img src="https://img.icons8.com/color/32/000000/git.png"/> Git | <img src="https://www.iconfinder.com/icons/2530806/download/png/30"/> Unit Testing | <img src="https://www.iconfinder.com/icons/289621/download/png/32"/> CocoaPods |
 | <img src="https://img.icons8.com/color/32/000000/data-configuration.png"/> Core Data | <img src="https://img.icons8.com/color/32/000000/github.png"/> GitHub | <img src="https://img.icons8.com/25AAF8/30/xcode"/> Xcode Instruments | <img src="https://www.iconfinder.com/icons/294391/download/png/32"/> Carthage |
 | <img src="https://img.icons8.com/color/32/000000/animation.png"/> Core Animation | <img src="https://img.icons8.com/color/32/000000/bitbucket.png"/> Bitbucket |  | |
+
+---
 
 ### 🚀 Technical Skills
 
@@ -71,7 +72,7 @@ I'm passionate about crafting elegant and user-friendly iOS applications. With a
 #### Code Quality
 `Clean code`, `Maintainable code`, `Documented code`
 
-<br>
+---
 
 ### 🛠️ Other Skills
 
@@ -104,6 +105,8 @@ I take pride in my ability to diagnose and troubleshoot problems swiftly, ensuri
 
 #### Testing
 `Unit testing`
+
+---
 
 ###  Apple Design Guidelines for iOS App
 
@@ -160,17 +163,15 @@ As an iOS Developer, I'm well-versed in the App Store submission process and adh
 
 I take pride in delivering high-quality apps that meet Apple's standards and provide a seamless experience for users while staying compliant with the necessary guidelines and regulations.
 
-<br>
-<br>
-
-
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=2867B2)](https://www.linkedin.com/in/dakshesh-talaviya)
-[![Google](https://img.shields.io/badge/-Google-F4511E?style=flat-square&logo=Google&logoColor=white&labelColor=F4511E)](daksheshtalaviya@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/daksh_patel_27)
-
 ---
 
-⭐️ Inspired by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">📫 Let's Connect! 📫</h3>
+
+<p align="center">
+<a href="https://twitter.com/daksh_patel_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a><t>
+<a href="https://www.linkedin.com/in/dakshesh-talaviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/daksh_talaviya_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="skype:live:daksheshtalaviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" height="30" width="40" /></a>
+</p>
+
+---
