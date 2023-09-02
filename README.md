@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" height="700"/>
+    <img src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif"/>
 <div>
 
 # <h1 align="center">Hi, I'm <a href="https://github.com/daksheshtalaviya">Dkshesh Talaviya<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
