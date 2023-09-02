@@ -1,6 +1,7 @@
-![Header](https://i.pinimg.com/originals/75/ad/f6/75adf60a163180dfeb0c467511e25191.gif)
 
 ## Hi there, I'm Dkshesh Talaviya 👋
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/75/ad/f6/75adf60a163180dfeb0c467511e25191.gif" width="480px"/>
 
 ### Senior iOS Developer | Swift Enthusiast | Code Lover
 
