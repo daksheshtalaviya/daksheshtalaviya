@@ -28,9 +28,9 @@ I'm passionate about crafting elegant and user-friendly iOS applications. With a
 
 | iOS Frameworks and Tools       | Design and Version Control       | Testing and Debugging         | Others                     |
 | ----------------------------- | -------------------------------- | ---------------------------- | -------------------------- |
-| <img src="https://img.icons8.com/color/48/000000/apple-logo.png"/> UIKit | <img src="https://img.icons8.com/color/48/000000/git.png"/> Git | <img src="https://img.icons8.com/color/48/000000/xcode.png"/> Unit Testing | <img src="https://img.icons8.com/color/48/000000/cocoapods.png"/> CocoaPods |
-| <img src="https://img.icons8.com/color/48/000000/data-configuration.png"/> Core Data | <img src="https://img.icons8.com/color/48/000000/github.png"/> GitHub | <img src="https://img.icons8.com/color/48/000000/instruments.png"/> Xcode Instruments | <img src="https://img.icons8.com/color/48/000000/carthage.png"/> Carthage |
-| <img src="https://img.icons8.com/color/48/000000/animation.png"/> Core Animation | <img src="https://img.icons8.com/color/48/000000/bitbucket.png"/> Bitbucket |  | |
+| <img src="https://www.iconfinder.com/icons/1054970/download/png/32"/> UIKit | <img src="https://img.icons8.com/color/32/000000/git.png"/> Git | <img src="https://www.iconfinder.com/icons/2530806/download/png/30"/> Unit Testing | <img src="https://www.iconfinder.com/icons/289621/download/png/32"/> CocoaPods |
+| <img src="https://img.icons8.com/color/32/000000/data-configuration.png"/> Core Data | <img src="https://img.icons8.com/color/32/000000/github.png"/> GitHub | <img src="https://img.icons8.com/25AAF8/30/xcode"/> Xcode Instruments | <img src="https://www.iconfinder.com/icons/294391/download/png/32"/> Carthage |
+| <img src="https://img.icons8.com/color/32/000000/animation.png"/> Core Animation | <img src="https://img.icons8.com/color/32/000000/bitbucket.png"/> Bitbucket |  | |
 
 ### 🚀 Technical Skills
 
@@ -163,6 +163,7 @@ I take pride in delivering high-quality apps that meet Apple's standards and pro
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=2867B2)](https://www.linkedin.com/in/dakshesh-talaviya)
+[![Google](https://img.shields.io/badge/-Google-F4511E?style=flat-square&logo=Google&logoColor=white&labelColor=F4511E)](daksheshtalaviya@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/daksh_patel_27)
 
 ---
